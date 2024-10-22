@@ -1,0 +1,46 @@
+
+ /* i bring the color from a website called color hunt */
+  body {
+    background-color: #DBD3D3;
+  }
+  
+  header {
+    background-color: #091057;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+  
+  
+  
+  section {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+ 
+  ul {
+    margin-left: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #091057;
+    color: #fff;
+    width: 100%;
+  }
+  
+  a {
+    color: #fff;
+  }
+  
+  
